@@ -2475,7 +2475,7 @@ video.smartphone_video_player {
 }
 .tgme_logo {
   display: inline-block;
-  background: url(/img/tgme/LogoBig_1x.png) 0 0 no-repeat;
+  background: url(/img/LogoBig_1x.png) 0 0 no-repeat;
   width: 131px;
   height: 31px;
   background-size: 131px 31px;
@@ -2499,7 +2499,7 @@ a.tgme_head_dl_button:active {
 }
 .tgme_icon_arrow {
   display: inline-block;
-  background: url(/img/tgme/Arrow_1x.png) 0 0 no-repeat;
+  background: url(/img/Arrow_1x.png) 0 0 no-repeat;
   width: 8px;
   height: 12px;
   background-size: 8px 12px;
@@ -2526,28 +2526,28 @@ a.tgme_head_dl_button:active {
   display: inline-block;
   width: 40px;
   height: 39px;
-  background: url(/img/tgme/Web1x.png?1) -2px -38px no-repeat;
+  background: url(/img/Web1x.png?1) -2px -38px no-repeat;
   background-size: 44px 177px;
 }
 .tgme_icon_group {
   display: inline-block;
   width: 44px;
   height: 28px;
-  background: url(/img/tgme/Web1x.png?1) 0 0 no-repeat;
+  background: url(/img/Web1x.png?1) 0 0 no-repeat;
   background-size: 44px 177px;
 }
 .tgme_icon_stickers {
   display: inline-block;
   width: 40px;
   height: 40px;
-  background: url(/img/tgme/Web1x.png?1) -2px -87px no-repeat;
+  background: url(/img/Web1x.png?1) -2px -87px no-repeat;
   background-size: 44px 177px;
 }
 .tgme_icon_share {
   display: inline-block;
   width: 44px;
   height: 23px;
-  background: url(/img/tgme/Web1x.png?1) 0 -137px no-repeat;
+  background: url(/img/Web1x.png?1) 0 -137px no-repeat;
   background-size: 44px 177px;
 }
 .tgme_page_photo {
@@ -2749,7 +2749,7 @@ a.tgme_footer_dl_button:active {
   width: 24px;
   height: 24px;
   margin: -7px 0 -7px 0;
-  background: url(/img/tgme/web_icon.png) 0 0 no-repeat;
+  background: url(/img/web_icon.png) 0 0 no-repeat;
 }
 .tgme_page_widget_actions .tgme_page_web_action {
   margin-top: 0;
@@ -2786,7 +2786,7 @@ a.tgme_footer_dl_button:active {
   width: 24px;
   height: 24px;
   margin: -7px 7px -7px 0;
-  background: url(/img/tgme/embed_icon.png?1) 0 0 no-repeat;
+  background: url(/img/embed_icon.png?1) 0 0 no-repeat;
 }
 .embed_opened .tgme_page_embed_btn a.tgme_action_button_new:before {
   background-position: -24px 0;
@@ -2797,7 +2797,7 @@ a.tgme_footer_dl_button:active {
   width: 24px;
   height: 24px;
   margin: -7px 7px -7px 0;
-  background: url(/img/tgme/embed_copy.png) 0 0 no-repeat;
+  background: url(/img/embed_copy.png) 0 0 no-repeat;
 }
 .embed_opened .tgme_page_embed_btn a.tgme_action_button_new {
   color: #2481cc;
@@ -3363,30 +3363,30 @@ i.tl_telegram_share_icon {
   }
 
   .tgme_logo {
-    background: url(/img/tgme/LogoBig_2x.png) 0 0 no-repeat;
+    background: url(/img/LogoBig_2x.png) 0 0 no-repeat;
     background-size: 131px 31px;
   }
   .tgme_icon_arrow {
-    background-image: url(/img/tgme/Arrow_2x.png);
+    background-image: url(/img/Arrow_2x.png);
   }
   .tgme_icon_user,
   .tgme_icon_group,
   .tgme_icon_stickers,
   .tgme_icon_share {
-    background-image: url(/img/tgme/Web2x.png?1);
+    background-image: url(/img/Web2x.png?1);
     background-size: 44px 177px;
   }
 
   .tgme_page_widget_actions a.tgme_action_web_button:before {
-    background-image: url(/img/tgme/web_icon_2x.png);
+    background-image: url(/img/web_icon_2x.png);
     background-size: 24px 24px;
   }
   .tgme_page_embed_btn a.tgme_action_button_new:before {
-    background-image: url(/img/tgme/embed_icon_2x.png?1);
+    background-image: url(/img/embed_icon_2x.png?1);
     background-size: 48px 24px;
   }
   .tgme_page_copy_action a.tgme_action_button_new:before {
-    background-image: url(/img/tgme/embed_copy_2x.png);
+    background-image: url(/img/embed_copy_2x.png);
     background-size: 24px 24px;
   }
 
@@ -3831,25 +3831,25 @@ i.tl_telegram_share_icon {
   .tgme_icon_user {
     width: 30px;
     height: 30px;
-    background: url(/img/tgme/Mobile1x.png?1) -2px -31px no-repeat;
+    background: url(/img/Mobile1x.png?1) -2px -31px no-repeat;
     background-size: 33px 148px;
   }
   .tgme_icon_group {
     width: 32px;
     height: 18px;
-    background: url(/img/tgme/Mobile1x.png?1) 0 0 no-repeat;
+    background: url(/img/Mobile1x.png?1) 0 0 no-repeat;
     background-size: 33px 148px;
   }
   .tgme_icon_stickers {
     width: 28px;
     height: 28px;
-    background: url(/img/tgme/Mobile1x.png?1) -2px -70px no-repeat;
+    background: url(/img/Mobile1x.png?1) -2px -70px no-repeat;
     background-size: 33px 148px;
   }
   .tgme_icon_share {
     width: 31px;
     height: 17px;
-    background: url(/img/tgme/Mobile1x.png?1) -1px -108px no-repeat;
+    background: url(/img/Mobile1x.png?1) -1px -108px no-repeat;
     background-size: 33px 148px;
   }
 
@@ -3899,6 +3899,6 @@ i.tl_telegram_share_icon {
   .tgme_icon_group,
   .tgme_icon_stickers,
   .tgme_icon_share {
-    background-image: url(/img/tgme/Mobile2x.png?1);
+    background-image: url(/img/Mobile2x.png?1);
   }
 }
