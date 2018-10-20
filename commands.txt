@@ -1,0 +1,8 @@
+l=0; ls -1 | while read f; do l=$((l+1)); mv "$f" "$l.png" ; done
+
+ls -1 | while read f; do convert "$f" -crop 496x630-73-0 "$f" ; done
+ls -1 | while read f; do convert "$f" -resize 135x200\> "$f" ; done
+ls -1 | while read f; do l=`echo "$f" | awk -F.png '{ print $1 }'`; convert "$f" -background white -alpha remove -flatten -alpha off -crop 157x200-23-0 "$l.jpg"; done
+
+
+s=36; convert logo.jpg -resize "${s}x${s}"\> logo_$s.jpg

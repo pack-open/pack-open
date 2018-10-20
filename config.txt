@@ -1,0 +1,4 @@
+tg://resolve?domain=PackOpenning
+true
+249
+15
