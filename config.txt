@@ -1,4 +1,4 @@
-tg://resolve?domain=PackOpenning
+https://pack-open.github.io/t/
 true
 249
 15
