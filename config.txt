@@ -1,4 +1,4 @@
-https://pack-open.github.io/t/
+https://pack-open.github.io
 true1
 249
 30
